@@ -1,0 +1,12 @@
+G:\UnityDemo\C#Besic\helloCSharp\helloCSharp\bin\Debug\helloCSharp.exe.config
+G:\UnityDemo\C#Besic\helloCSharp\helloCSharp\obj\Debug\helloCSharp.csprojResolveAssemblyReference.cache
+G:\UnityDemo\C#Besic\helloCSharp\helloCSharp\bin\Debug\helloCSharp.exe
+G:\UnityDemo\C#Besic\helloCSharp\helloCSharp\bin\Debug\helloCSharp.pdb
+G:\UnityDemo\C#Besic\helloCSharp\helloCSharp\obj\Debug\helloCSharp.exe
+G:\UnityDemo\C#Besic\helloCSharp\helloCSharp\obj\Debug\helloCSharp.pdb
+G:\GitHub\Unity\C#Basic\helloCSharp\helloCSharp\bin\Debug\helloCSharp.exe.config
+G:\GitHub\Unity\C#Basic\helloCSharp\helloCSharp\obj\Debug\helloCSharp.exe
+G:\GitHub\Unity\C#Basic\helloCSharp\helloCSharp\obj\Debug\helloCSharp.pdb
+G:\GitHub\Unity\C#Basic\helloCSharp\helloCSharp\obj\Debug\helloCSharp.csprojResolveAssemblyReference.cache
+G:\GitHub\Unity\C#Basic\helloCSharp\helloCSharp\bin\Debug\helloCSharp.exe
+G:\GitHub\Unity\C#Basic\helloCSharp\helloCSharp\bin\Debug\helloCSharp.pdb
